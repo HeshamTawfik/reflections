@@ -19,6 +19,8 @@ when you want to make 2 versions differs from each other and want to keep both v
 
 How do the diagrams help you visualize the branch structure?
 
+it makes me arrange my ideas into a paper to take the right decisions.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
