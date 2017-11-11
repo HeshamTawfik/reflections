@@ -28,3 +28,5 @@ the result is to combine what we do in each branch together in one branch, we re
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+automatic is easier if the relation between the 2 branches is not complex while if it was complex manual merge is preferable.
