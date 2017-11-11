@@ -24,5 +24,7 @@ it makes me arrange my ideas into a paper to take the right decisions.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+the result is to combine what we do in each branch together in one branch, we represent it in the diagram first to arrange my ideas to avoid deleting commits you will not able to return it back.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
